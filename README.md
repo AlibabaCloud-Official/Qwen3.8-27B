@@ -33,3 +33,5 @@ Welcome to the repository for **Qwen3.8-27B**—the latest native multimodal den
 
 ---
 <img width="2507" height="2190" alt="HPsO4QibgAAr-sB" src="https://github.com/user-attachments/assets/487300c0-609b-4f31-bf32-96be888069d4" />
+
+<img width="2548" height="2448" alt="HPsO5QHasAElXUC" src="https://github.com/user-attachments/assets/a5973b81-2d93-4da7-a906-9ef98713ba67" />
