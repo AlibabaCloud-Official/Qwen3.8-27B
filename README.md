@@ -27,9 +27,9 @@ Welcome to the repository for **Qwen3.8-27B**—the latest native multimodal den
 
 | Resource | Link |
 | :--- | :--- |
-| **Hugging Face Collection** | [Qwen3.8 Collection on Hugging Face](https://huggingface.co/collections/Qwen/qwen38) |
-| **ModelScope Collection** | [Qwen3.8 Collection on ModelScope](https://modelscope.cn/collections/Qwen/Qwen38) |
-| **Dynamic GGUFs (Unsloth)** | [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) |
+| **Hugging Face** | [Qwen3.8 Collection on Hugging Face](https://huggingface.co/collections/Qwen/qwen38) |
+| **Qwen Cloud** | [Access via Qwen Cloud](https://click.qwencloud.com/m/20000001098/) |
+| **Alibaba Cloud Model Studio** | [Access via Alibaba Cloud Model Studio](https://click.alibabacloud.com/m/20000001090/) |
 
 ---
 <img width="2507" height="2190" alt="HPsO4QibgAAr-sB" src="https://github.com/user-attachments/assets/487300c0-609b-4f31-bf32-96be888069d4" />
